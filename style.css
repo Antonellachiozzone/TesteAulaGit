@@ -1,0 +1,20 @@
+html{
+    background-color: #ececec;
+    box-sizing: border-box;
+}
+
+.logo {
+    border: 05px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+.menu {
+    background-color: #cf8c95;
+    color: #ececec;
+    width: 500px;
+}
+
+.introducao {
+    width: 1500px;
+}
